@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "芝居の終焉",
+  "base_artist": "Dios",
+  "createdAt": "2025-12-02T05:29:33.839708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "芝居の終焉",
+      "artist": "Dios",
+      "has_synced": true,
+      "path": "select/01_芝居の終焉_Dios.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "芝居の終焉",
+      "artist": "Dios",
+      "has_synced": false,
+      "path": "select/02_芝居の終焉_Dios.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "芝居の終焉",
+      "artist": "Dios, たなか, Ichika Nito, ササノマリイ",
+      "has_synced": false,
+      "path": "select/pl_01_芝居の終焉_Dios,_たなか,_Ichika_Nito,_ササノマリイ.txt"
+    }
+  ]
+}
